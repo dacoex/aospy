@@ -8,6 +8,11 @@ What's New
 v0.2.1 (unreleased)
 -------------------
 
+Documentation
+~~~~~~~~~~~~~
+
+- corrected link to doc badge via :pull:`213`
+
 Dependencies
 ~~~~~~~~~~~~
 
