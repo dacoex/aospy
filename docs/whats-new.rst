@@ -11,7 +11,15 @@ v0.2.1 (unreleased)
 Documentation
 ~~~~~~~~~~~~~
 
-- Corrected link to documentation badge on repository main page (:pull:213). By DaCoEx <https://github.com/dacoex>_.
+Corrected link to documentation badge on repository main page (:pull:213). By DaCoEx <https://github.com/dacoex>_.
+
+=======
+Enhancements
+~~~~~~~~~~~~
+
+- Remove potentially confusing attributes from example netcdf files.
+  (closes :issue:`214` via :pull:`216`). By `Micah Kim
+  <https://github.com/micahkim23>`_.
 
 Dependencies
 ~~~~~~~~~~~~
